@@ -1,0 +1,16 @@
+<h1>My Hobbies</h1>
+<ul> 
+    <h2>Sports!</h2>
+    <ol><h3>
+        <li>MMA</li>
+        <li>Muay Thai</li>
+        <li>Weight Lifting</li> </h3>
+    </ol>
+    <h2>Development</h2>
+    <ol> <h3>
+        <li>Web Development course in progress</li>
+        <li>CX training and certification passed 97%</li>
+        <li>Mental Health and Personal Development</li>
+        </h3>
+    </ol>
+</ul>
